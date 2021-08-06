@@ -5,6 +5,6 @@
 ### * _[Exploratory Data Analysis - Retail](https://github.com/sansuthi/Data-Science-The-Sparks-Foundation/blob/main/TASK%20%233/Task3%20Description.md)_
 ### * _[Prediction using Decision Tree Algorithm](https://github.com/sansuthi/Data-Science-The-Sparks-Foundation/blob/main/TASK%20%236/Task6%20Description.md)_
 ---
-![](certificate.png)
+<img src="Certificate.png" width=60%, height=60%>
 
 ---
