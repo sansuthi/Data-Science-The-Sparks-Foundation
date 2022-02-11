@@ -6,5 +6,4 @@
 predict the right class accordingly._
 * ### _Dataset: [Iris.csv](Iris.csv)_
 * ### _Implementation: [Prediction using Decision Tree Algorithm.ipynb](Task%20%236%20Prediction%20using%20Decision%20Tree%20Algorithm.ipynb)_
-* ### _LinkedIn Post: [Link](https://www.linkedin.com/posts/sansuthi_gripjune21-internship-thesparksfoundation-activity-6808624874320396288-Y0Na/)_
 ---
